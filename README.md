@@ -38,5 +38,5 @@ This repo is where I track my daily progress and projects as I prepare for a fut
 ---
 
 ## 📌 Notes
-You can follow my daily progress [here](link-to-notion-board-if-public).
+You can follow my daily progress [here](https://www.notion.so/Andrew-Kapteyn-s-Web-Dev-and-German-Language-Journal-21031db7531180918673c18ef24b4503?source=copy_link)
 # web-dev-learning-journey
