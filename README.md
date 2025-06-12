@@ -16,7 +16,7 @@ This repo is where I track my daily progress and projects as I prepare for a fut
 ---
 
 ## 🧠 Skills I'm Working On
-- [x] Basic HTML & CSS
+- [ ] Basic HTML & CSS
 - [ ] Responsive layouts
 - [ ] JavaScript DOM manipulation
 - [ ] Version control with Git
